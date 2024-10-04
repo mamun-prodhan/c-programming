@@ -1,1 +1,2 @@
-stay Home,,,,,,
+wednesday
+out of switch case
