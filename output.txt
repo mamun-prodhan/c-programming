@@ -1,2 +1,1 @@
-Odd
-Negative
+200 1000
