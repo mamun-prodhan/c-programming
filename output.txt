@@ -1,2 +1,5 @@
-wednesday
-out of switch case
+1 No
+2 No
+3 YES
+4 No
+5 YES
